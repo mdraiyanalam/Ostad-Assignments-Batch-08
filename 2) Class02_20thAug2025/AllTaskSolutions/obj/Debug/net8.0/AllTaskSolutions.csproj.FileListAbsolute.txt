@@ -1,0 +1,14 @@
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\bin\Debug\net8.0\AllTaskSolutions.exe
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\bin\Debug\net8.0\AllTaskSolutions.deps.json
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\bin\Debug\net8.0\AllTaskSolutions.runtimeconfig.json
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\bin\Debug\net8.0\AllTaskSolutions.dll
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\bin\Debug\net8.0\AllTaskSolutions.pdb
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\AllTaskSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\AllTaskSolutions.AssemblyInfoInputs.cache
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\AllTaskSolutions.AssemblyInfo.cs
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\AllTaskSolutions.csproj.CoreCompileInputs.cache
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\AllTaskSolutions.dll
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\refint\AllTaskSolutions.dll
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\AllTaskSolutions.pdb
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\AllTaskSolutions.genruntimeconfig.cache
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\2) Class02_20thAug2025\AllTaskSolutions\obj\Debug\net8.0\ref\AllTaskSolutions.dll

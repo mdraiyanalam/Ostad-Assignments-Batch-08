@@ -1,0 +1,14 @@
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\bin\Debug\net8.0\Task02.exe
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\bin\Debug\net8.0\Task02.deps.json
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\bin\Debug\net8.0\Task02.runtimeconfig.json
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\bin\Debug\net8.0\Task02.dll
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\bin\Debug\net8.0\Task02.pdb
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\Task02.AssemblyInfoInputs.cache
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\Task02.AssemblyInfo.cs
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\Task02.csproj.CoreCompileInputs.cache
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\Task02.dll
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\refint\Task02.dll
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\Task02.pdb
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\Task02.genruntimeconfig.cache
+C:\Users\mdraiyanalam\Desktop\Organize\Ostad\1) Class01_17thAug2025\Task02\Task02\obj\Debug\net8.0\ref\Task02.dll
