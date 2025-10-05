@@ -1,0 +1,15 @@
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\CalculateSquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\CalculateSquareRoot.AssemblyInfoInputs.cache
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\CalculateSquareRoot.AssemblyInfo.cs
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\CalculateSquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\CalculateSquareRoot.sourcelink.json
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\bin\Debug\net8.0\CalculateSquareRoot.exe
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\bin\Debug\net8.0\CalculateSquareRoot.deps.json
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\bin\Debug\net8.0\CalculateSquareRoot.runtimeconfig.json
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\bin\Debug\net8.0\CalculateSquareRoot.dll
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\bin\Debug\net8.0\CalculateSquareRoot.pdb
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\CalculateSquareRoot.dll
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\refint\CalculateSquareRoot.dll
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\CalculateSquareRoot.pdb
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\CalculateSquareRoot.genruntimeconfig.cache
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\3) Class03_6thSept2025\CalculateSquareRoot\obj\Debug\net8.0\ref\CalculateSquareRoot.dll

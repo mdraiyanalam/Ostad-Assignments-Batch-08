@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Quick Event Solution Ltd.</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header style="background-color: #28a745; padding: 20px; color: white;">
+        <h1>Quick Event Solution Ltd.</h1>
+        <nav class="navbar navbar-expand-sm navbar-dark">
+            <div class="container-fluid">
+                <div class="navbar-nav">
+                    <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                    <a class="nav-link" asp-controller="Events" asp-action="AllEvents">All Events</a>
+                    <a class="nav-link" asp-controller="Events" asp-action="UpcomingEvents">Upcoming Events</a>
+                    <a class="nav-link" asp-controller="Users" asp-action="Index">Users</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer style="background-color: #ffc107; padding: 20px; text-align: center; position: fixed; bottom: 0; width: 100%;">
+        <p>This Application is Designed By Aurgha Aurpan Dash</p>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
