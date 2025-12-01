@@ -1,0 +1,6 @@
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\7) Live Test on Week 2 14th Nov 2025\UserServiceApp\bin\Debug\UserServiceApp.dll
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\7) Live Test on Week 2 14th Nov 2025\UserServiceApp\bin\Debug\UserServiceApp.pdb
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\7) Live Test on Week 2 14th Nov 2025\UserServiceApp\obj\Debug\UserServiceApp.csproj.AssemblyReference.cache
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\7) Live Test on Week 2 14th Nov 2025\UserServiceApp\obj\Debug\UserServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\7) Live Test on Week 2 14th Nov 2025\UserServiceApp\obj\Debug\UserServiceApp.dll
+C:\Users\mdraiyanalam\Desktop\Organize\All About Ostad\Ostad Assignments\Ostad-Assignments-Batch-08\7) Live Test on Week 2 14th Nov 2025\UserServiceApp\obj\Debug\UserServiceApp.pdb

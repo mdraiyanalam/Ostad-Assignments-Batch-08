@@ -1,0 +1,14 @@
+﻿@model BookManagementApp.Models.Book
+
+@{
+    ViewData["Title"] = "Delete Book";
+}
+
+<h2>Delete Book</h2>
+<h4>Are you sure you want to delete "@Model.Title"?</h4>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="BookId" />   <!-- Correct – uses BookId -->
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
