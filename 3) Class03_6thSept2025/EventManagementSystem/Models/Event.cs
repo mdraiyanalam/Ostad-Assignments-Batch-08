@@ -1,28 +1,13 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-
-namespace EventManagementSystem.Models
+﻿namespace EventManagementSystem.Models
 {
     public class Event
     {
         public int Id { get; set; }
-
-        [Required]
-        public string Name { get; set; }
-
-        [Required]
-        public string Description { get; set; }
-
-        [Required]
+        public string Name { get; set; } = null!;
+        public string Description { get; set; } = null!;
         public DateTime Date { get; set; }
-
-        [Required]
-        public string Address { get; set; }
-
+        public string Address { get; set; } = null!;
         public int AssignedUserId { get; set; }
-        public User AssignedUser { get; set; }
-
-        public string Category { get; set; }
-
+        public User AssignedUser { get; set; } = null!;
     }
 }

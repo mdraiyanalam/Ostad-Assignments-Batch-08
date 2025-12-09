@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YITaor9//2g=",
+  "dgSpecHash": "ItTA/rdN2cE=",
   "success": true,
   "projectFilePath": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\EventManagementSystem.csproj",
   "expectedPackageFiles": [
@@ -81,6 +81,7 @@
     "C:\\Users\\mdraiyanalam\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.8\\microsoft.entityframeworkcore.relational.9.0.8.nupkg.sha512",
     "C:\\Users\\mdraiyanalam\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.8\\microsoft.entityframeworkcore.sqlite.9.0.8.nupkg.sha512",
     "C:\\Users\\mdraiyanalam\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.8\\microsoft.entityframeworkcore.sqlite.core.9.0.8.nupkg.sha512",
+    "C:\\Users\\mdraiyanalam\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0\\microsoft.entityframeworkcore.tools.10.0.0.nupkg.sha512",
     "C:\\Users\\mdraiyanalam\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.8\\microsoft.extensions.caching.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\mdraiyanalam\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.8\\microsoft.extensions.caching.memory.9.0.8.nupkg.sha512",
     "C:\\Users\\mdraiyanalam\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.8\\microsoft.extensions.configuration.abstractions.9.0.8.nupkg.sha512",

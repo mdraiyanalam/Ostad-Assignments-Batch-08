@@ -1,11 +1,6 @@
 ﻿@model IEnumerable<EventManagementSystem.Models.User>
 
-@{
-    ViewData["Title"] = "Users";
-}
-
-<h1>Users</h1>
-
+<h2>Users</h2>
 <table class="table">
     <thead>
         <tr>
@@ -24,7 +19,19 @@
                 <td>@item.LastName</td>
                 <td>@item.ContactNumber</td>
                 <td>@item.Email</td>
-                <td>@item.GetUserTypeText()</td>
+                <td>
+                    @{
+                        string typeText = item.UserType switch
+                        {
+                            1 => "Admin User",
+                            2 => "Standard User",
+                            3 => "External User",
+                            4 => "Guest User",
+                            _ => "Unknown"
+                        };
+                    }
+                    @typeText
+                </td>
             </tr>
         }
     </tbody>

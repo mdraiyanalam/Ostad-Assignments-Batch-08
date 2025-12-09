@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\views\\events\\allevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:views\\events\\allevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\views\\events\\upcomingevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:views\\events\\upcomingevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\data\\eventmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:data\\eventmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\3) class03_6thsept2025\\eventmanagementsystem\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD85F-7471-424A-99FC-389A71810182}|EventManagementSystem.csproj|solutionrelative:services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,29 +61,163 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T07:31:50.986Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AllEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Events\\AllEvents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\AllEvents.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Events\\AllEvents.cshtml",
+              "RelativeToolTip": "Views\\Events\\AllEvents.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T07:27:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Data\\EventManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\EventManagementContext.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Data\\EventManagementContext.cs",
+              "RelativeToolTip": "Data\\EventManagementContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:05:26.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:47:02.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:44:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:41:37.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:41:12.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T08:13:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EventsController.cs",
               "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
               "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Controllers\\EventsController.cs",
               "RelativeToolTip": "Controllers\\EventsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T19:28:45.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AllEvents.cshtml",
-              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Events\\AllEvents.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\AllEvents.cshtml",
-              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Events\\AllEvents.cshtml",
-              "RelativeToolTip": "Views\\Events\\AllEvents.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UpcomingEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Events\\UpcomingEvents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\UpcomingEvents.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Events\\UpcomingEvents.cshtml",
+              "RelativeToolTip": "Views\\Events\\UpcomingEvents.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-06T19:25:56.176Z",
+              "WhenOpened": "2025-12-09T06:50:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:44:52.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\3) Class03_6thSept2025\\EventManagementSystem\\Services\\DataService.cs",
+              "RelativeToolTip": "Services\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:43:35.155Z",
               "EditorCaption": ""
             }
           ]
