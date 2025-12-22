@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Singularity.Models.Product>
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Admin Dashboard</h1>
+    <h2>Product Summary</h2>
+
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Stock Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.productName</td>
+                        <td>@product.productPrice.ToString("C")</td>
+                        <td>@product.StockQuantity</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3" class="text-center">No products available yet.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-controller="Products" asp-action="Manage" class="btn btn-primary btn-lg">Manage Products</a>
+</div>

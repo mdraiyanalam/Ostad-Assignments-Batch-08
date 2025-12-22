@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singularity", "Singularity.csproj", "{5F9E893E-072C-43B7-9F0D-980E45855735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9E893E-072C-43B7-9F0D-980E45855735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9E893E-072C-43B7-9F0D-980E45855735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9E893E-072C-43B7-9F0D-980E45855735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9E893E-072C-43B7-9F0D-980E45855735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0E585E-40FE-48B1-AC89-835B8CAAD97A}
+	EndGlobalSection
+EndGlobal

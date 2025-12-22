@@ -1,0 +1,85 @@
+﻿@model Singularity.Models.ProductManageViewModel
+
+@{
+    ViewData["Title"] = "Manage Products";
+}
+
+<h1>Manage Products</h1>
+
+@if (ViewBag.SuccessMessage != null)
+{
+    <div class="alert alert-success">@ViewBag.SuccessMessage</div>
+}
+
+<h2>Product List</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Stock Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Products != null && Model.Products.Any())
+        {
+            foreach (var product in Model.Products)
+            {
+                <tr>
+                    <td>@product.productId</td>
+                    <td>@product.productName</td>
+                    <td>@product.productDescription</td>
+                    <td>@product.productPrice.ToString("C")</td>
+                    <td>@product.StockQuantity</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">No products available.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2 class="mt-5">Add New Product</h2>
+
+<div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+<form asp-controller="Products" asp-action="Add" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="NewProduct.productName">Name</label>
+        <input asp-for="NewProduct.productName" class="form-control" />
+        <span asp-validation-for="NewProduct.productName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="NewProduct.productDescription">Description</label>
+        <input asp-for="NewProduct.productDescription" class="form-control" />
+        <span asp-validation-for="NewProduct.productDescription" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="NewProduct.productPrice">Price</label>
+        <input asp-for="NewProduct.productPrice" type="number" step="0.01" class="form-control" />
+        <span asp-validation-for="NewProduct.productPrice" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="NewProduct.StockQuantity">Stock Quantity</label>
+        <input asp-for="NewProduct.StockQuantity" type="number" class="form-control" />
+        <span asp-validation-for="NewProduct.StockQuantity" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Add Product</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
