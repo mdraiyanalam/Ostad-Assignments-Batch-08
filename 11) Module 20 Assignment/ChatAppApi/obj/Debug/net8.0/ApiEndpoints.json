@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ChatAppApi.Hubs.UsersController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
