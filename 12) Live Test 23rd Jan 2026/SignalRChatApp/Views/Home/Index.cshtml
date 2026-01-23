@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Global Chat Room";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Global Chat App</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <style>
+        #messages {
+            height: 400px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: #f9f9f9;
+            margin-bottom: 15px;
+        }
+        #messageInput {
+            width: 60%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h2 class="text-center mb-4">Global Chat Room</h2>
+
+        <div id="messages"></div>
+
+        <div class="input-group mb-3">
+            <input id="userInput" class="form-control" placeholder="Your name" value="Guest" style="max-width: 180px;" />
+            <input id="messageInput" class="form-control" placeholder="Type a message..." />
+            <button id="sendButton" class="btn btn-primary">Send</button>
+        </div>
+
+        <!-- SignalR client library (using CDN - works without npm/libman) -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"></script>
+
+        <script>
+            "use strict";
+
+            const connection = new signalR.HubConnectionBuilder()
+                .withUrl("/chatHub")
+                .build();
+
+            // Listen for messages from server
+            connection.on("ReceiveMessage", function (user, message) {
+                const msg = document.createElement("div");
+                msg.innerHTML = `<strong>${user}:</strong> ${message}`;
+                document.getElementById("messages").appendChild(msg);
+                document.getElementById("messages").scrollTop = document.getElementById("messages").scrollHeight;
+            });
+
+            // Start the connection
+            connection.start()
+                .then(function () {
+                    console.log("Connected to chat hub!");
+                })
+                .catch(function (err) {
+                    console.error(err.toString());
+                    alert("Connection failed: " + err.toString());
+                });
+
+            // Send button
+            document.getElementById("sendButton").addEventListener("click", async () => {
+                const user = document.getElementById("userInput").value.trim() || "Guest";
+                const message = document.getElementById("messageInput").value.trim();
+
+                if (!message) return;
+
+                try {
+                    await connection.invoke("SendMessage", user, message);
+                    document.getElementById("messageInput").value = "";
+                } catch (err) {
+                    console.error(err.toString());
+                }
+            });
+
+            // Send on Enter key
+            document.getElementById("messageInput").addEventListener("keypress", async (e) => {
+                if (e.key === "Enter") {
+                    e.preventDefault();
+                    document.getElementById("sendButton").click();
+                }
+            });
+        </script>
+    </div>
+</body>
+</html>
