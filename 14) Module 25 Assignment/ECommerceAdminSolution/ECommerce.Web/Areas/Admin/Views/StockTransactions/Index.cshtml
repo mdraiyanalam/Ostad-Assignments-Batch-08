@@ -1,0 +1,17 @@
+﻿@model IEnumerable<StockTransaction>
+<h2>Stock Transactions</h2>
+<table class="table">
+    <thead><tr><th>ID</th><th>Product ID</th><th>Quantity</th><th>Type</th><th>Date</th></tr></thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.ProductId</td>
+                <td>@item.Quantity</td>
+                <td>@item.TransactionType</td>
+                <td>@item.Date</td>
+            </tr>
+        }
+    </tbody>
+</table>

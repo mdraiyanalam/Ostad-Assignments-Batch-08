@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB74E32-4D85-4C47-B05B-DBBD231EF65A}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB74E32-4D85-4C47-B05B-DBBD231EF65A}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391C6B0B-4460-4253-93C1-713F916CFBEF}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391C6B0B-4460-4253-93C1-713F916CFBEF}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84447F12-75B3-42E5-AFA5-3A784F8F533D}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84447F12-75B3-42E5-AFA5-3A784F8F533D}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84447F12-75B3-42E5-AFA5-3A784F8F533D}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84447F12-75B3-42E5-AFA5-3A784F8F533D}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7E74E58-2C89-41F4-9292-328856526C05}|ECommerce.Web\\ECommerce.Web.csproj|solutionrelative:ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB74E32-4D85-4C47-B05B-DBBD231EF65A}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\13) modula 24 assignment\\ecommerceadminsolution\\ecommerce.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB74E32-4D85-4C47-B05B-DBBD231EF65A}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowHkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T13:31:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ECommerce.Web\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T11:49:27.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerce.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:48:37.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:17:12.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:16:53.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:16:34.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:16:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T13:32:53.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:51:24.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T13:38:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:30:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:14:58.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:25:39.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:01:07.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:17:53.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:18:13.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:10:11.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:18:32.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:14:06.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:19:49.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:20:07.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:13:10.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Program.cs",
+              "RelativeToolTip": "ECommerce.Web\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:03:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\appsettings.json",
+              "RelativeToolTip": "ECommerce.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T07:03:17.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T06:57:41.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ECommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ECommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:57:11.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\13) Modula 24 Assignment\\ECommerceAdminSolution\\ECommerce.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:57:29.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
