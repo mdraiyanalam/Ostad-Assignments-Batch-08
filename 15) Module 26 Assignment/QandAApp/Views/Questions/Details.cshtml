@@ -1,0 +1,148 @@
+﻿@model QandAApp.Entities.Question
+
+@{
+    ViewData["Title"] = Model?.Title ?? "Question";
+    var currentUserId = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value;
+    var isQuestionOwner = currentUserId == Model?.UserId;
+}
+
+<h1>@Model.Title</h1>
+
+<div class="mb-4">
+    <p class="text-muted">
+        Asked by <strong>@Model.User?.UserName</strong> on @Model.CreatedAt.ToString("MMM dd, yyyy HH:mm")
+    </p>
+    <div class="border p-3 bg-light">
+        @Model.Body
+    </div>
+
+    @if (isQuestionOwner)
+    {
+        <div class="mt-3">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-sm btn-warning">Edit question</a>
+            <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-sm btn-danger">Delete question</a>
+        </div>
+    }
+</div>
+
+<h3 class="mb-3">Answers (@Model.Answers.Count)</h3>
+
+@if (!Model.Answers.Any())
+{
+    <p class="text-muted">No answers yet. Be the first!</p>
+}
+else
+{
+    foreach (var a in Model.Answers.OrderByDescending(a => a.IsAccepted))
+    {
+        <div class="border mb-3 p-3 @(a.IsAccepted ? "bg-success text-white" : "")">
+            <p>@a.Body</p>
+            <p class="text-muted">
+                Answered by <strong>@a.User?.UserName</strong> on @a.CreatedAt.ToString("MMM dd, yyyy HH:mm")
+            </p>
+            @if (a.IsAccepted)
+            {
+                <span class="badge bg-light text-success">Accepted</span>
+            }
+            else if (isQuestionOwner)
+            {
+                <form asp-action="AcceptAnswer" method="post">
+                    <input type="hidden" name="questionId" value="@Model.Id" />
+                    <input type="hidden" name="answerId" value="@a.Id" />
+                    <button type="submit" class="btn btn-sm btn-success">Accept this answer</button>
+                </form>
+            }
+
+            @if (User.Identity?.IsAuthenticated == true && a.UserId == currentUserId)
+            {
+                <div class="mt-2">
+                    <a asp-controller="Answers" asp-action="Edit" asp-route-id="@a.Id" class="btn btn-sm btn-outline-warning">Edit</a>
+                    <a asp-controller="Answers" asp-action="Delete" asp-route-id="@a.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+                </div>
+            }
+
+            <h5 class="mt-3">Comments on this answer (@a.Comments.Count)</h5>
+            <ul class="list-unstyled">
+                @foreach (var c in a.Comments)
+                {
+                    <li class="border-bottom py-2">
+                        <p>@c.Body</p>
+                        <small class="text-muted">By @c.User?.UserName on @c.CreatedAt.ToString("MMM dd, yyyy HH:mm")</small>
+                        @if (c.UserId == currentUserId)
+                        {
+                            <div>
+                                <a asp-controller="Comments" asp-action="Edit" asp-route-id="@c.Id" class="btn btn-sm btn-link text-warning p-0">Edit</a>
+                                <a asp-controller="Comments" asp-action="Delete" asp-route-id="@c.Id" class="btn btn-sm btn-link text-danger p-0">Delete</a>
+                            </div>
+                        }
+                    </li>
+                }
+            </ul>
+
+            @if (User.Identity?.IsAuthenticated == true)
+            {
+                <form asp-controller="Comments" asp-action="CreateOnAnswer" method="post">
+                    <input type="hidden" name="AnswerId" value="@a.Id" />
+                    <div class="input-group mb-3">
+                        <input type="text" name="Body" class="form-control" placeholder="Add a comment to this answer..." required />
+                        <button type="submit" class="btn btn-outline-secondary">Post</button>
+                    </div>
+                </form>
+            }
+            else
+            {
+                <p><a asp-area="Identity" asp-page="/Account/Login">Login</a> to comment on answers.</p>
+            }
+        </div>
+    }
+}
+
+@if (User.Identity?.IsAuthenticated == true)
+{
+    <h3 class="mb-3">Add Your Answer</h3>
+    <form asp-controller="Answers" asp-action="Create" method="post">
+        <input type="hidden" name="QuestionId" value="@Model.Id" />
+        <div class="mb-3">
+            <textarea name="Body" class="form-control" rows="5" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Post Answer</button>
+    </form>
+}
+else
+{
+    <p><a asp-area="Identity" asp-page="/Account/Login">Login</a> to answer.</p>
+}
+
+<h3 class="mt-4 mb-3">Comments on Question (@Model.Comments.Count)</h3>
+
+<ul class="list-unstyled">
+    @foreach (var c in Model.Comments)
+    {
+        <li class="border-bottom py-2">
+            <p>@c.Body</p>
+            <small class="text-muted">By @c.User?.UserName on @c.CreatedAt.ToString("MMM dd, yyyy HH:mm")</small>
+            @if (c.UserId == currentUserId)
+            {
+                <div>
+                    <a asp-controller="Comments" asp-action="Edit" asp-route-id="@c.Id" class="btn btn-sm btn-link text-warning p-0">Edit</a>
+                    <a asp-controller="Comments" asp-action="Delete" asp-route-id="@c.Id" class="btn btn-sm btn-link text-danger p-0">Delete</a>
+                </div>
+            }
+        </li>
+    }
+</ul>
+
+@if (User.Identity?.IsAuthenticated == true)
+{
+    <form asp-controller="Comments" asp-action="CreateOnQuestion" method="post">
+        <input type="hidden" name="QuestionId" value="@Model.Id" />
+        <div class="input-group mb-3">
+            <input type="text" name="Body" class="form-control" placeholder="Add a comment..." required />
+            <button type="submit" class="btn btn-outline-secondary">Post</button>
+        </div>
+    </form>
+}
+else
+{
+    <p><a asp-area="Identity" asp-page="/Account/Login">Login</a> to comment.</p>
+}

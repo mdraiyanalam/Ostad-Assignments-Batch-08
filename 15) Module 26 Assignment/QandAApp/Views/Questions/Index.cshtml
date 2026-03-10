@@ -1,0 +1,53 @@
+@model IEnumerable<QandAApp.Entities.Question>
+
+@{
+    ViewData["Title"] = "All Questions";
+}
+
+<h1 class="mb-4">All Questions</h1>
+
+<p>
+    @if (User.Identity?.IsAuthenticated == true)
+    {
+        <a asp-action="Create" class="btn btn-primary">Ask a new question</a>
+    }
+    else
+    {
+        <a asp-area="Identity" asp-page="/Account/Login" class="btn btn-outline-primary">Login to ask a question</a>
+    }
+</p>
+
+@if (!Model.Any())
+{
+    <p class="text-muted">No questions yet. Be the first to ask!</p>
+}
+else
+{
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        @foreach (var q in Model)
+        {
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <a asp-action="Details" asp-route-id="@q.Id">@q.Title</a>
+                        </h5>
+                        <p class="card-text">
+                            @(q.Body?.Length > 150 ? q.Body.Substring(0, 150) + "..." : q.Body)
+                        </p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <small class="text-muted">@q.Answers?.Count answers</small>
+                            @if (User.Identity?.IsAuthenticated == true && q.UserId == User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value)
+                            {
+                                <div>
+                                    <a asp-action="Edit" asp-route-id="@q.Id" class="btn btn-sm btn-outline-warning">Edit</a>
+                                    <a asp-action="Delete" asp-route-id="@q.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

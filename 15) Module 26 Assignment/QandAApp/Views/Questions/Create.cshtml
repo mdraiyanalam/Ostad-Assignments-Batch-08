@@ -1,0 +1,32 @@
+﻿@model QandAApp.Entities.Question
+
+@{
+    ViewData["Title"] = "Ask a Question";
+}
+
+<h1>Ask a Question</h1>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label">Title</label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Body" class="form-label">Your question</label>
+        <textarea asp-for="Body" class="form-control" rows="10"></textarea>
+        <span asp-validation-for="Body" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Post Question</button>
+    <a asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
