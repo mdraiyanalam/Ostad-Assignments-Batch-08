@@ -9,6 +9,7 @@ namespace QandAApp.Services
         Task<IEnumerable<Comment>> GetCommentsByQuestionIdAsync(int questionId);
         Task<IEnumerable<Comment>> GetCommentsByAnswerIdAsync(int answerId);
         Task<Comment?> GetCommentByIdAsync(int id);
+        Task<Answer?> GetAnswerByIdAsync(int id);
         Task CreateCommentOnQuestionAsync(Comment comment, string userId, int questionId);
         Task CreateCommentOnAnswerAsync(Comment comment, string userId, int answerId);
         Task UpdateCommentAsync(Comment comment, string userId);

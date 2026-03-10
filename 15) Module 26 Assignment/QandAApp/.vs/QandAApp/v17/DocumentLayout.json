@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\15) module 26 assignment\\qandaapp\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|solutionrelative:controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\15) module 26 assignment\\qandaapp\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|solutionrelative:services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\15) module 26 assignment\\qandaapp\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|solutionrelative:services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\15) module 26 assignment\\qandaapp\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\15) module 26 assignment\\qandaapp\\views\\questions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|solutionrelative:views\\questions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\15) module 26 assignment\\qandaapp\\views\\shared\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|solutionrelative:views\\shared\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|c:\\users\\mdraiyanalam\\desktop\\organize\\all about ostad\\ostad assignments\\ostad-assignments-batch-08\\15) module 26 assignment\\qandaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D592B64-ABF0-4D04-BEFC-DF1788650DA6}|QandAApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +50,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Services\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Services\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Services\\ICommentService.cs",
+              "RelativeToolTip": "Services\\ICommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:25:33.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Services\\CommentService.cs",
+              "RelativeToolTip": "Services\\CommentService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:25:24.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Views\\Shared\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Views\\Shared\\_StatusMessage.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T22:23:16.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:21:38.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Views\\Questions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Questions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Views\\Questions\\Details.cshtml",
+              "RelativeToolTip": "Views\\Questions\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T22:20:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:19:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DevEmailSender.cs",
               "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Services\\DevEmailSender.cs",
               "RelativeDocumentMoniker": "Services\\DevEmailSender.cs",
@@ -38,12 +140,11 @@
               "RelativeToolTip": "Services\\DevEmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T21:12:57.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T21:12:57.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -56,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "QuestionService.cs",
               "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Services\\QuestionService.cs",
               "RelativeDocumentMoniker": "Services\\QuestionService.cs",
@@ -64,12 +165,11 @@
               "RelativeToolTip": "Services\\QuestionService.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAwwIcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T21:01:50.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T21:01:50.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AnswerService.cs",
               "DocumentMoniker": "C:\\Users\\mdraiyanalam\\Desktop\\Organize\\All About Ostad\\Ostad Assignments\\Ostad-Assignments-Batch-08\\15) Module 26 Assignment\\QandAApp\\Services\\AnswerService.cs",
               "RelativeDocumentMoniker": "Services\\AnswerService.cs",
@@ -77,8 +177,7 @@
               "RelativeToolTip": "Services\\AnswerService.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAswEcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T21:00:36.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T21:00:36.575Z"
             }
           ]
         }

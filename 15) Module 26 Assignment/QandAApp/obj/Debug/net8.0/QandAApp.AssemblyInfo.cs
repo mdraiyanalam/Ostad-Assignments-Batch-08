@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QandAApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f047c3f25ce361fe2ed191d12c0b1f5ccf07bb4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21bae2e734b452724f07c0b2e7348c95cedf2a0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("QandAApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QandAApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,14 @@
+﻿@model string?
+
+@if (!string.IsNullOrEmpty(Model))
+{
+    var isError = Model.StartsWith("Error") || Model.Contains("Not authorized") || Model.Contains("required");
+    var alertClass = isError ? "danger" : "success";
+    var icon = isError ? "exclamation-triangle-fill" : "check-circle-fill";
+
+    <div class="alert alert-@alertClass alert-dismissible fade show mt-3" role="alert">
+        <i class="bi bi-@icon me-2"></i>
+        @Model
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}

@@ -6,6 +6,8 @@
     var isQuestionOwner = currentUserId == Model?.UserId;
 }
 
+<partial name="_StatusMessage" model='@TempData["Success"] ?? TempData["Error"]' />
+
 <h1>@Model.Title</h1>
 
 <div class="mb-4">

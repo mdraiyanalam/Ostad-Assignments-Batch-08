@@ -68,7 +68,6 @@ namespace QandAApp.Controllers
 
             // Explicit loading using exposed Repository from service
             var dbContext = _questionService.Repository.Context;
-
             await dbContext.Entry(question).Reference(q => q.User).LoadAsync();
             await dbContext.Entry(question).Collection(q => q.Answers).LoadAsync();
             await dbContext.Entry(question).Collection(q => q.Comments).LoadAsync();
@@ -160,15 +159,18 @@ namespace QandAApp.Controllers
             {
                 var userId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
                 await _questionService.AcceptAnswerAsync(questionId, answerId, userId);
+                TempData["Success"] = "Answer accepted successfully!";
                 return RedirectToAction(nameof(Details), new { id = questionId });
             }
             catch (UnauthorizedAccessException)
             {
-                return Unauthorized();
+                TempData["Error"] = "You are not authorized to accept answers for this question.";
+                return RedirectToAction(nameof(Details), new { id = questionId });
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                return BadRequest("Error accepting answer.");
+                TempData["Error"] = "Error accepting answer: " + ex.Message;
+                return RedirectToAction(nameof(Details), new { id = questionId });
             }
         }
     }

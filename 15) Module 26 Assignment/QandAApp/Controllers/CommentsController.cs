@@ -27,13 +27,19 @@ namespace QandAApp.Controllers
                 {
                     var userId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
                     await _commentService.CreateCommentOnQuestionAsync(comment, userId, QuestionId);
+                    TempData["Success"] = "Comment added successfully!";
                     return RedirectToAction("Details", "Questions", new { id = QuestionId });
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-                    ModelState.AddModelError("", "Error creating comment.");
+                    TempData["Error"] = "Error creating comment: " + ex.Message;
                 }
             }
+            else
+            {
+                TempData["Error"] = "Comment body is required.";
+            }
+
             return RedirectToAction("Details", "Questions", new { id = QuestionId });
         }
 
@@ -41,29 +47,46 @@ namespace QandAApp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> CreateOnAnswer(Comment comment, int AnswerId)
         {
-            var answer = await _commentService.GetCommentByIdAsync(AnswerId); // To get QuestionId
             if (ModelState.IsValid)
             {
                 try
                 {
                     var userId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
                     await _commentService.CreateCommentOnAnswerAsync(comment, userId, AnswerId);
+
+                    // Get QuestionId to redirect properly
+                    var answer = await _commentService.GetAnswerByIdAsync(AnswerId); // You need to add this method to ICommentService
+                    if (answer == null)
+                    {
+                        TempData["Error"] = "Answer not found.";
+                        return RedirectToAction("Index", "Questions");
+                    }
+
+                    TempData["Success"] = "Comment added successfully!";
                     return RedirectToAction("Details", "Questions", new { id = answer.QuestionId });
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-                    ModelState.AddModelError("", "Error creating comment.");
+                    TempData["Error"] = "Error creating comment: " + ex.Message;
                 }
             }
-            return RedirectToAction("Details", "Questions", new { id = answer.QuestionId });
+            else
+            {
+                TempData["Error"] = "Comment body is required.";
+            }
+
+            // Fallback redirect (not ideal, but safe)
+            return RedirectToAction("Index", "Questions");
         }
 
         public async Task<IActionResult> Edit(int id)
         {
             var comment = await _commentService.GetCommentByIdAsync(id);
             if (comment == null) return NotFound();
+
             var currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
             if (comment.UserId != currentUserId) return Unauthorized();
+
             return View(comment);
         }
 
@@ -71,34 +94,42 @@ namespace QandAApp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(Comment comment)
         {
-            var existing = await _commentService.GetCommentByIdAsync(comment.Id);
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                try
-                {
-                    var userId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
-                    await _commentService.UpdateCommentAsync(comment, userId);
-                    int redirectId = existing.QuestionId ?? existing.AnswerId ?? 0; // Redirect to question
-                    return RedirectToAction("Details", "Questions", new { id = redirectId });
-                }
-                catch (UnauthorizedAccessException)
-                {
-                    return Unauthorized();
-                }
-                catch (Exception)
-                {
-                    ModelState.AddModelError("", "Error updating comment.");
-                }
+                return View(comment);
             }
-            return View(comment);
+
+            try
+            {
+                var userId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
+                await _commentService.UpdateCommentAsync(comment, userId);
+
+                var existing = await _commentService.GetCommentByIdAsync(comment.Id);
+                int redirectId = existing?.QuestionId ?? existing?.AnswerId ?? 0;
+
+                TempData["Success"] = "Comment updated successfully!";
+                return RedirectToAction("Details", "Questions", new { id = redirectId });
+            }
+            catch (UnauthorizedAccessException)
+            {
+                TempData["Error"] = "You can only edit your own comments.";
+                return View(comment);
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "Error updating comment: " + ex.Message);
+                return View(comment);
+            }
         }
 
         public async Task<IActionResult> Delete(int id)
         {
             var comment = await _commentService.GetCommentByIdAsync(id);
             if (comment == null) return NotFound();
+
             var currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
             if (comment.UserId != currentUserId) return Unauthorized();
+
             return View(comment);
         }
 
@@ -109,18 +140,23 @@ namespace QandAApp.Controllers
             try
             {
                 var comment = await _commentService.GetCommentByIdAsync(id);
-                var userId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
-                await _commentService.DeleteCommentAsync(id, userId);
+                if (comment == null) return NotFound();
+
+                await _commentService.DeleteCommentAsync(id, User.FindFirstValue(ClaimTypes.NameIdentifier)!);
+
                 int redirectId = comment.QuestionId ?? comment.AnswerId ?? 0;
+                TempData["Success"] = "Comment deleted successfully!";
                 return RedirectToAction("Details", "Questions", new { id = redirectId });
             }
             catch (UnauthorizedAccessException)
             {
-                return Unauthorized();
+                TempData["Error"] = "You can only delete your own comments.";
+                return RedirectToAction("Index", "Questions");
             }
             catch (Exception)
             {
-                return BadRequest("Error deleting comment.");
+                TempData["Error"] = "Error deleting comment.";
+                return RedirectToAction("Index", "Questions");
             }
         }
     }

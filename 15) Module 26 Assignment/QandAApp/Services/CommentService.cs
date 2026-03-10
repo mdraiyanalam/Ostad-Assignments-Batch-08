@@ -1,7 +1,9 @@
-﻿using QandAApp.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using QandAApp.Entities;
 using QandAApp.Repositories;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace QandAApp.Services
@@ -34,6 +36,14 @@ namespace QandAApp.Services
         public async Task<Comment?> GetCommentByIdAsync(int id)
         {
             return await _repository.GetByIdAsync(id, c => c.User!);
+        }
+
+        // New method: Get Answer with Question included (for redirect in CreateOnAnswer)
+        public async Task<Answer?> GetAnswerByIdAsync(int id)
+        {
+            return await _repository.Context.Set<Answer>()
+                .Include(a => a.Question)
+                .FirstOrDefaultAsync(a => a.Id == id);
         }
 
         public async Task CreateCommentOnQuestionAsync(Comment comment, string userId, int questionId)
